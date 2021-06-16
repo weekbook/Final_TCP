@@ -1,7 +1,7 @@
 # Final_TCP
 TCP/IP 기말고사를 위한 repository
 
-(클라이언트 두 명 접속 시도)
+(클라이언트 두 명 접속 시도 / 주소 입력 후 엔터버튼 누르면 채팅방 오픈)
 <img width="" height="" src="./Result/Result1.png"></img>
 
 (클라이언트 2명 입장)
