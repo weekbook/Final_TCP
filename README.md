@@ -1,4 +1,4 @@
-# Final_TCP
+# TCP_Chat_Project
 201744028_A반_이기훈
 
 TCP/IP 기말고사를 위한 repository
