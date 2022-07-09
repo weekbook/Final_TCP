@@ -1,7 +1,7 @@
 # TCP_Chat_Project
 201744028_A반_이기훈
 
-TCP/IP 기말고사를 위한 repository
+TCP 통신을 이용한 팅 프로그램
 
 (클라이언트 두 명 접속 시도 / 주소 입력 후 엔터버튼 누르면 채팅방 오픈)
 <img width="" height="" src="./Result/Result1.png"></img>
